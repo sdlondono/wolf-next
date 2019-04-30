@@ -1,5 +1,4 @@
 import Header from './Header'
-import '../public/css/output.css'
 
 
 const layoutStyle = {
